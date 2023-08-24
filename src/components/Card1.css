@@ -5,7 +5,8 @@
     border-color: black;
     position: relative;
     top:90px;
-   
+    padding: 20px;
+    border-radius:100%;
 }
 
 .card-title{

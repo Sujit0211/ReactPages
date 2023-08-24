@@ -2,5 +2,6 @@
     position: relative;
     margin-left: 150px;
     top: -30rem;
-    
+    box-shadow: 10%;
+    padding: 10px;
 }

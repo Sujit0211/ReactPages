@@ -74,7 +74,7 @@ const Progress5 = () => {
 
         <div className="card flex justify-content-center">
              <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trend Chart</strong>
-            <Chart type="pie" data={chartData} options={lightOptions} style={{ position: 'relative', width: '100%' }} />
+            <Chart type="pie" data={chartData} options={lightOptions} style={{ position: 'relative', width: '70%' }} />
 
         </div>
 
