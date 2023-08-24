@@ -1,0 +1,9 @@
+.block2{
+    position: relative;
+    width: 380px;
+    height: 340px;
+    margin-left: 350px;
+    top: -100px;
+    border-color: black;
+    border-radius: 20px;
+}

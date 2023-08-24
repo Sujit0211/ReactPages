@@ -1,0 +1,10 @@
+.container{
+    margin-left: 10%;
+    border-color: black;
+    
+}
+
+.bar{
+    height:150px;
+    width: 150px;
+}
